@@ -4,5 +4,6 @@
 library;
 
 export 'src/particle_swarm_optimization_base.dart';
+export 'src/route.dart';
 
 // TODO: Export any libraries intended for clients of this package.
